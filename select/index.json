@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Ahora Te Puedes Marchar",
+  "base_artist": "Luis Miguel",
+  "createdAt": "2026-02-16T20:40:49.549589Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ahora Te Puedes Marchar",
+      "artist": "Luis Miguel",
+      "has_synced": true,
+      "path": "select/01_Ahora_Te_Puedes_Marchar_Luis_Miguel.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ahora Te Puedes Marchar",
+      "artist": "Luis Miguel",
+      "has_synced": true,
+      "path": "select/02_Ahora_Te_Puedes_Marchar_Luis_Miguel.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ahora Te Puedes Marchar",
+      "artist": "Luis Miguel",
+      "has_synced": true,
+      "path": "select/03_Ahora_Te_Puedes_Marchar_Luis_Miguel.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ahora te puedes marchar",
+      "artist": "luis miguel",
+      "has_synced": true,
+      "path": "select/04_ahora_te_puedes_marchar_luis_miguel.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ahora Te Puedes Marchar",
+      "artist": "Asspera",
+      "has_synced": true,
+      "path": "select/05_Ahora_Te_Puedes_Marchar_Asspera.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ahora Te Puedes Marchar",
+      "artist": "Abraham Mateo",
+      "has_synced": true,
+      "path": "select/06_Ahora_Te_Puedes_Marchar_Abraham_Mateo.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ahora Te Puedes Marchar",
+      "artist": "Karina",
+      "has_synced": false,
+      "path": "select/07_Ahora_Te_Puedes_Marchar_Karina.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ahora Te Puedes Marchar",
+      "artist": "Luis Miguel",
+      "has_synced": true,
+      "path": "select/08_Ahora_Te_Puedes_Marchar_Luis_Miguel.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ahora te puedes marchar",
+      "artist": "Luis Miguel",
+      "has_synced": true,
+      "path": "select/09_Ahora_te_puedes_marchar_Luis_Miguel.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ahora Te Puedes Marchar",
+      "artist": "Xavi",
+      "has_synced": true,
+      "path": "select/10_Ahora_Te_Puedes_Marchar_Xavi.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ahora Te Puedes Marchar",
+      "artist": "Pellek",
+      "has_synced": false,
+      "path": "select/11_Ahora_Te_Puedes_Marchar_Pellek.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ahora te puedes marchar",
+      "artist": "Les surfs",
+      "has_synced": false,
+      "path": "select/12_Ahora_te_puedes_marchar_Les_surfs.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ahora te puedes marchar",
+      "artist": "Luis Miguel",
+      "has_synced": true,
+      "path": "select/13_Ahora_te_puedes_marchar_Luis_Miguel.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ahora Te Puedes Marchar",
+      "artist": "Super Junior",
+      "has_synced": true,
+      "path": "select/14_Ahora_Te_Puedes_Marchar_Super_Junior.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ahora Te Puedes Marchar",
+      "artist": "Luis Miguel",
+      "has_synced": true,
+      "path": "select/15_Ahora_Te_Puedes_Marchar_Luis_Miguel.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ahora Te Puedes Marchar",
+      "artist": "Banda XXI",
+      "has_synced": true,
+      "path": "select/16_Ahora_Te_Puedes_Marchar_Banda_XXI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ahora Te Puedes Marchar",
+      "artist": "Luis Miguel",
+      "has_synced": false,
+      "path": "select/pl_01_Ahora_Te_Puedes_Marchar_Luis_Miguel.txt"
+    }
+  ]
+}
